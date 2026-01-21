@@ -1,0 +1,5 @@
+language = "python3"
+entryPoint = "host.py"
+
+[packages]
+flask = "*"
